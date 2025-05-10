@@ -47,4 +47,4 @@ Creates and manages the graphical interface:
 3. Run the app:
 
 ```bash
-python bank_app.py
+Banking_system.py
